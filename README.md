@@ -6,8 +6,6 @@ A TradingView **Pine Script v5** indicator that combines a 9/20 EMA trend filter
 
 Built and used for discretionary trading of **crypto** (BTC, ETH) and **commodities** (Gold / XAUUSD) on intraday to 1-hour timeframes.
 
-![XAUUSD 1m overview](images/xauusd-1m-overview.png)
-
 ## Features
 - 9 EMA and 20 EMA trend lines (blue / orange)
 - Trend filter: only BUYs in an uptrend, only SELLs in a downtrend
